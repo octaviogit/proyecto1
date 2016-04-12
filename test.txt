@@ -1,0 +1,10 @@
+<a href="javascript:window.open('document.aspx','mypopuptitle','width=600,height=400')">open popup</a>
+
+<script language="javascript">
+
+ htmlStrings = new Array(10),
+        i, j, current, comparing;
+		
+	console.log("htmlstrings: "+htmlStrings);
+
+  </script>
